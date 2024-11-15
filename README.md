@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://i.ibb.co.com/WfQTM7F/1500x500.jpg))
+![Alt text](https://i.ibb.co.com/WfQTM7F/1500x500.jpg)
 <h1>Hi 👋, I'm Adnan Nahid</h1>
 <p>A passionate frontend developer from Bangladesh</p>
 <h2>🚀 Languages and Tools I Use</h2>
