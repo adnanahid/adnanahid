@@ -64,38 +64,22 @@
 
 ---
 
-## 📊 Current Stats
+## Current Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanahid&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Next.js – Advanced React framework for web applications
 - TypeScript for stronger type-checking in JavaScript applications
-
----
-
-## 👨‍💻 Projects
-Here are a few projects I've worked on:
-
-- **[ProTracker](#)**: A brief description of what the project does. Key technologies used: React, Tailwind, Firebase.
-- **[The Cars](#)**: Another description. Key technologies used: Node.js, Express, MongoDB.
-- **[Epic Gamers](#)**: Documenting my journey of building an ITX setup, an area I'm passionate about as an ITX enthusiast.
-
-Feel free to check out more on my [GitHub profile](https://github.com/adnanahid)!
 
 ---
 
 ## ⚡ Fun Facts
 - 📚 I'm currently studying **Physics** and diving into **web development**.
 - 🖥️ Built my own personal ITX computer named **MJOLNEAR**.
-- 🎨 My design inspiration often comes from **minimalist Figma designs**.
+- 🎨 I love to play chess a lot.
 
 ---
-
-## 📈 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adnanahid&label=Profile%20Views&color=0e75b6&style=flat" alt="adnanahid" />
-</p>
