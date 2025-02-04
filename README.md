@@ -68,12 +68,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adnanahid&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanahid&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=adnanahid&theme=darkhub" alt="GitHub Trophies" />
   </a>
+</p>
+
+<p align="center">
 </p>
 
 ---
