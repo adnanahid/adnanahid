@@ -64,16 +64,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Current Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanahid&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanahid&theme=radical" alt="GitHub Streak Stats" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adnanahid&theme=darkhub" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
 </p>
 
 ---
@@ -89,9 +82,9 @@
 ## 👨‍💻 Projects
 Here are a few projects I've worked on:
 
-- **[Project Name](#)**: A brief description of what the project does. Key technologies used: React, Tailwind, Firebase.
-- **[Another Project](#)**: Another description. Key technologies used: Node.js, Express, MongoDB.
-- **[MJOLNEAR ITX Setup](#)**: Documenting my journey of building an ITX setup, an area I'm passionate about as an ITX enthusiast.
+- **[ProTracker](#)**: A brief description of what the project does. Key technologies used: React, Tailwind, Firebase.
+- **[The Cars](#)**: Another description. Key technologies used: Node.js, Express, MongoDB.
+- **[Epic Gamers](#)**: Documenting my journey of building an ITX setup, an area I'm passionate about as an ITX enthusiast.
 
 Feel free to check out more on my [GitHub profile](https://github.com/adnanahid)!
 
@@ -101,22 +94,6 @@ Feel free to check out more on my [GitHub profile](https://github.com/adnanahid)
 - 📚 I'm currently studying **Physics** and diving into **web development**.
 - 🖥️ Built my own personal ITX computer named **MJOLNEAR**.
 - 🎨 My design inspiration often comes from **minimalist Figma designs**.
-- 🥰 I’m married for over 2.5 years, enjoying this beautiful journey.
-
----
-
-## 💬 Let's Connect
-<p align="center">
-  <a href="https://x.com/n_ahidada" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adnan-nahid-693299219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 ---
 
