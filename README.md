@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">Technologies that I know</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Contact Info</h2>
+<h2 align="center">Contact with me</h2>
 
 ###
 
