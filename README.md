@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Technologies that I know</h2>
+<h2 align="center">Technologies that I know</h2>
 
 ###
 
@@ -72,10 +72,8 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced React.js concepts (hooks, context API, custom hooks)
+- Next.js – Advanced React framework for web applications
 - TypeScript for stronger type-checking in JavaScript applications
-- Backend with Node.js & Express
-- MongoDB for efficient database management
 
 ---
 
