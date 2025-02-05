@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -44,19 +44,12 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-###
-
-<h2 align="left">Current Activities:</h2>
-
-###
 
 ## Currently Activity
 - Learning Next.js – Advanced React framework for web applications
 - Tyring To Build A full stack project using next.js and typescript
 - Exploring Redux
 
-
-###
 
 <h2 align="left">Contact with me</h2>
 
