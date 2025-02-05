@@ -50,10 +50,9 @@
 
 ###
 
-<ul>
-  <li><p align="left">Learing Next.js and Typescript</p></li>
-  <li><p align="left">Building a project with nextjs and typescript</p></li>
-</ul>
+## Currently Activity
+- Learning Next.js – Advanced React framework for web applications
+- Tyring To Build A full stack project using next.js and typescript
 
 
 ###
