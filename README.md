@@ -16,10 +16,6 @@
 
 ###
 
-<h2 align="center">I code with</h2>
-
-###
-
 <h2 align="center">I use for Frontend</h2>
 
 ###
