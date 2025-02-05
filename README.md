@@ -53,6 +53,7 @@
 ## Currently Activity
 - Learning Next.js – Advanced React framework for web applications
 - Tyring To Build A full stack project using next.js and typescript
+- Exploring Redux
 
 
 ###
@@ -94,9 +95,10 @@
 
 ---
 
-## ⚡ Fun Facts
-- 📚 I'm currently studying **Physics** and diving into **web development**.
-- 🖥️ Built my own personal ITX computer named **MJOLNEAR**.
-- 🎨 I love to play chess a lot.
+## Fun Facts
+- I'm currently studying **Physics** and diving into **web development**.
+- Built my own personal ITX computer named **MJOLNEAR**.
+- I love to play chess a lot.
+- Love to read and walking alone.
 
 ---
