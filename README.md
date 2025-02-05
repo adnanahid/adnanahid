@@ -46,6 +46,18 @@
 
 ###
 
+<h2 align="left">Current Activities:</h2>
+
+###
+
+<ul>
+  <li><p align="left">Learing Next.js and Typescript</p></li>
+  <li><p align="left">Building a project with nextjs and typescript</p></li>
+</ul>
+
+
+###
+
 <h2 align="left">Contact with me</h2>
 
 ###
