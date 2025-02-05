@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="center">I use as tools</h2>
+<h2 align="center">Tools & Platforms</h2>
 
 ###
 
