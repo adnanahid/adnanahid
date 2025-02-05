@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hi, I'm Adnan, a 3rd-year BSc Physics student at BL College, Khulna. I'm passionate about science and technology, and currently diving deep into web development.<br>I enjoy creating clean, simple, and responsive websites that offer real value to users. My work emphasizes both functionality and visual appeal. My current focus is on mastering Node.js and building a robust portfolio to reflect my journey in tech.</p>
+<p align="left">Hi, I'm Adnan, a 3rd-year BSc Physics student at BL College, Khulna. I'm passionate about science and technology, and currently diving deep into web development. I enjoy creating clean, simple, and responsive websites that offer real value to users. My work emphasizes both functionality and visual appeal. My current focus is on mastering Node.js and building a robust portfolio to reflect my journey in tech.</p>
 
 ###
 
