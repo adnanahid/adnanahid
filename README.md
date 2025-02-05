@@ -54,7 +54,7 @@
 <h2 align="left">Contact with me</h2>
 
 ###
-
+<h2 align="left">My GitHub Stats</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/this-is-nahid-hasan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
@@ -67,7 +67,6 @@
   </a>
 </div>
 
----
 ###
 
 <div align="center">
@@ -90,8 +89,6 @@
 - Love to read and walking alone.
 
 ---
-
-<h2 align="left">My GitHub Stats</h2>
 
 
 ###
