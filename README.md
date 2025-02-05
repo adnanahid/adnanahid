@@ -69,15 +69,6 @@
 
 ---
 
-## Current Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanahid&theme=radical" alt="GitHub Streak Stats" />
-</p>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 ---
@@ -100,9 +91,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://follownaim-streak-stats.vercel.app/?user=adnanahid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://follownaim-stats.vercel.app/api/top-langs?username=adnanahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> <br/>
-  <img src="https://follownaim-stats.vercel.app/api?username=adnanahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://adnanahid-stats.vercel.app/api?username=adnanahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
 </div>
