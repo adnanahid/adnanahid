@@ -68,9 +68,13 @@
 </div>
 
 ---
-
 ###
 
+<div align="center">
+  <img src="https://follownaim-streak-stats.vercel.app/?user=adnanahid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://follownaim-stats.vercel.app/api/top-langs?username=adnanahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 ---
 
 ## Currently Learning
@@ -88,14 +92,6 @@
 ---
 
 <h2 align="left">My GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://follownaim-streak-stats.vercel.app/?user=adnanahid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://follownaim-stats.vercel.app/api/top-langs?username=adnanahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=adnanahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
 
 ###
